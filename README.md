@@ -6,4 +6,8 @@
 ```javascript
 console.log(cos_sim("나는 샌즈를 매우 좋아한다","나는 샌즈를 엄청 싫어한다"));
 //result : 0.50
+
+console.log(cos_sim("나는 샌즈를 매우 좋아한다","나는 샌즈를 매우 싫어한다"));
+//result : 0.75
+
 ```
